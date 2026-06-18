@@ -1,0 +1,1 @@
+"""LexiCase application package."""
